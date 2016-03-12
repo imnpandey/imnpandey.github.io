@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Navneet Pandey
 locale:           en_US
-url:
+url: http://localhost:4000
 
 
 # Jekyll configuration
@@ -41,21 +41,21 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Navneet Pandey
+  avatar: https://lh3.googleusercontent.com/Bbt7fkZhg2y-9a6tb_00AOUH9Av1iW-Xt8JqYa4AtakKq1oDnww9T5GleH8uydYQjiro=w1440-h900-rw-no
+  bio: "Procrastinator."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: nerdynav
   facebook: #username
   google:
-    plus: #username
+    plus: NavneetPandey
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: imnpandey
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

@@ -3,7 +3,7 @@
 title:            Navneet Pandey
 locale:           en_US
 url: https://navneetpandey.com
-
+enforce_ssl: navneetpandey.com
 
 # Jekyll configuration
 
